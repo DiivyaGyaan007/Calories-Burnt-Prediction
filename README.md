@@ -1,2 +1,2 @@
 # Calories-Burnt-Prediction
-This project aims to predict the number of calories burnt during physical activities using machine learning techniques. The model uses physiological data such as age, height, weight, duration, and heart rate metrics to estimate the calories burned.
+About A Data Science/Machine Learning project to analyse and study calories burnt patterns based on some relevant features.
